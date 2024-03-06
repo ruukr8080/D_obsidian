@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"0ff73b6abdacd4a5","type":"group","x":-10080,"y":-9920,"width":6720,"height":767,"label":"정리용"},
+		{"id":"9e749d4776dfc8bf","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/04. 변수.md","x":-10126,"y":-9553,"width":400,"height":400},
+		{"id":"fec02e96f02667b3","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/05. 표현식과 문.md","x":-9726,"y":-9553,"width":400,"height":400},
+		{"id":"42d29d0821e624e4","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/06. 데이터 타입.md","x":-9326,"y":-9553,"width":400,"height":400},
+		{"id":"26b9a92725de3860","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/07. 연산자.md","x":-8926,"y":-9553,"width":400,"height":400},
+		{"id":"8f6411677a6832c4","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/08. 제어문.md","x":-8526,"y":-9553,"width":400,"height":400},
+		{"id":"902ebb02aa59b31d","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/18. 함수와 일급 객체.md","x":-4526,"y":-9553,"width":400,"height":400},
+		{"id":"96607a489b5a9d15","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/10. 객체 리터럴.md","x":-7726,"y":-9553,"width":400,"height":400},
+		{"id":"77cb100dd7cb7b5c","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/11. 원시 값과 객체의 비교.md","x":-7326,"y":-9553,"width":400,"height":400},
+		{"id":"81dca2ca7f97d346","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/13. 스코프.md","x":-6526,"y":-9553,"width":400,"height":400},
+		{"id":"42f4350122d25358","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/14. 전역 변수의 문제점.md","x":-6126,"y":-9553,"width":400,"height":400},
+		{"id":"67bb74131227ad2e","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/12. 함수.md","x":-6926,"y":-9553,"width":400,"height":400},
+		{"id":"8fa52731b59ca1d7","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/09. 타입 변환과 단축 평가.md","x":-8126,"y":-9553,"width":400,"height":400},
+		{"id":"2c861295293fd5ba","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/15. let, const 키워드와 블록 레벨 스코프.md","x":-5726,"y":-9553,"width":400,"height":400},
+		{"id":"b6bbf0244602ed30","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/16. 프로퍼티 어트리뷰트.md","x":-5326,"y":-9553,"width":400,"height":400},
+		{"id":"29209d81413748c0","type":"file","file":"JavaScript/Book/모던 자바스크립트 딥다이브/정리용/17. 생성자 함수에 의한 객체 생성.md","x":-4926,"y":-9553,"width":400,"height":400},
+		{"id":"9131d4c16524ff8e","type":"file","file":"images/list.md","x":-10126,"y":-9953,"width":1086,"height":400}
+	],
+	"edges":[]
+}

@@ -1,0 +1,16 @@
+{
+  "accentColor": "#ff8e42",
+  "theme": "obsidian",
+  "baseFontSize": 20,
+  "cssTheme": "AnuPpuccin",
+  "showViewHeader": true,
+  "translucency": true,
+  "monospaceFontFamily": "메이플스토리 light,메이플스토리",
+  "textFontFamily": "메이플스토리 light,메이플스토리",
+  "interfaceFontFamily": "메이플스토리 light,메이플스토리",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "custom-admonitions.548663",
+    "color-extend.css"
+  ]
+}

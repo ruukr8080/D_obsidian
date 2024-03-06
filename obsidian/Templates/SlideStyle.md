@@ -1,0 +1,1 @@
+<!-- slide bg="#252525" style="font-size:10px; ; :100%;"-->
