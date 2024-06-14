@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "b5f5a00d5b1a2b25",
+    "type": "split",
+    "children": [
+      {
+        "id": "0828cd397eaa5296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b26b7a0f4a68b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bef5f9ead021540",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bb4172a116eba09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec591862e78f68f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8a583c57952244a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ace8423fc967dad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6945b95e301cb46c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2d35c20becb9e98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c8d0b55a2b0f3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0232e0df2c67ad5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b75dc904a05403d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41c4267ad1c9af31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dd.md"
+              }
+            }
+          },
+          {
+            "id": "6fba71d2393aa56b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "6b26b7a0f4a68b37",
+  "lastOpenFiles": [
+    "dd.md",
+    "무제 파일.canvas",
+    "obsidian/함수/메서드 호출 표현식.md",
+    "obsidian/Templates/SlideStyle.md",
+    "obsidian/Templates/daily note.md",
+    "obsidian/Templates/회의록.md",
+    "obsidian/images/객체리터럴.png",
+    "obsidian/Pasted image 20230918053156.png"
+  ]
+}
