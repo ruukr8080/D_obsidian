@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "72ce5ab4e15a7239",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6126d62961212b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95ea4e4d2341d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm_Study/day_0615/짝수홀수-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a66f742e0655b691",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2e60b47bf2ceca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d36daac4ad429f5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f91e4f65e1006cd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62a91be3a3426df8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14045cce8f65dc16",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e277d1f47f65fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee993985aef3d134",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithm_Study/day_0615/짝수홀수-.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "beb991c48933deaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algorithm_Study/day_0615/짝수홀수-.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "492f33bfff125c12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94789f876319e856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algorithm_Study/day_0615/짝수홀수-.md"
+              }
+            }
+          },
+          {
+            "id": "e9271e06740c6063",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c95ea4e4d2341d4e",
+  "lastOpenFiles": [
+    "Algorithm_Study/day_0615/짝수홀수-.md",
+    "Algorithm_Study/README.md"
+  ]
+}
