@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0828cd397eaa5296",
+        "id": "14284afe5ab0fc75",
         "type": "tabs",
         "children": [
           {
-            "id": "6b26b7a0f4a68b37",
+            "id": "474c381588f4deec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dd.md",
+                "file": "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "UML",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +64,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "b939bfcbc795f3f8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6945b95e301cb46c",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dd.md",
+                "file": "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dd.md",
+                "file": "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dd.md"
+                "file": "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md"
               }
             }
           },
@@ -138,31 +146,71 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b26b7a0f4a68b37",
+  "active": "ec591862e78f68f5",
   "lastOpenFiles": [
-    "dd.md",
-    "무제 파일.canvas",
-    "obsidian/함수/메서드 호출 표현식.md",
-    "obsidian/Templates/SlideStyle.md",
-    "obsidian/Templates/daily note.md",
-    "obsidian/Templates/회의록.md",
-    "obsidian/images/객체리터럴.png",
-    "obsidian/Pasted image 20230918053156.png"
+    "디자인패턴/ORACLE.md",
+    "Pasted image 20240704185528.png",
+    "Pasted image 20240704173734.png",
+    "Pasted image 20240704173323.png",
+    "Pasted image 20240704173149.png",
+    "디자인패턴/Oracle CURD 구문.md",
+    "디자인패턴/데이터 조회 방법.md",
+    "디자인패턴/MY SQL_기본 SQL문법(CRUD).md",
+    "Pasted image 20240704152022.png",
+    "Pasted image 20240704150714.png",
+    "Pasted image 20240704150247.png",
+    "Pasted image 20240704145735.png",
+    "디자인패턴/실습용 테이블 살펴보기.md",
+    "디자인패턴/DB .md",
+    "Pasted image 20240704110556.png",
+    "디자인패턴/아키텍트와 디자인패턴.md",
+    "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
+    "디자인패턴/디자인패턴.md",
+    "Pasted image 20240627143825.png",
+    "GoF의.md",
+    "디자인패턴/.md",
+    "디자인패턴/Untitled.canvas",
+    "디자인패턴/Untitled 1.md",
+    "디자인패턴",
+    "2024-06-20-list.md",
+    "class diergram.md",
+    "Untitled 1.md",
+    "WEB 프로젝트 양식.md",
+    "순서 바꾸기.md",
+    "분수의 덧셈.md",
+    "Untitled 2.md",
+    "subject.md",
+    "Untitled.md",
+    "template/개인레포/README.md",
+    "output/WEB 프로젝트 양식.md",
+    "output/순서 바꾸기.md",
+    "output/배열 두 배 만들기.md",
+    "Tags",
+    "output/순서 바꾸기.html",
+    "output/Untitled.html",
+    "output/배열 두 배 만들기.html",
+    "새 폴더/lib/search-index.json",
+    "새 폴더/lib/metadata.json",
+    "새 폴더/lib/styles/supported-plugins.css",
+    "새 폴더/lib/styles/other-plugins.css",
+    "새 폴더/lib/styles/main-styles.css",
+    "무제 파일.canvas"
   ]
 }

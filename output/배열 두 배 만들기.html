@@ -1,0 +1,134 @@
+<h1 data-heading="[문제](file://han/teamTask/Algorithm_Study/0618_%EB%B0%B0%EC%97%B4%20%EB%91%90%20%EB%B0%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0/)" dir="auto"><a data-tooltip-position="top" aria-label="file://han/teamTask/Algorithm_Study/0618_%EB%B0%B0%EC%97%B4%20%EB%91%90%20%EB%B0%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0/" rel="noopener" class="external-link" href="file://han/teamTask/Algorithm_Study/0618_%EB%B0%B0%EC%97%B4%20%EB%91%90%20%EB%B0%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0/" target="_blank">문제</a></h1>
+<blockquote dir="auto">
+<p dir="auto">정수 배열&nbsp;<code>numbers</code>가 매개변수로 주어집니다.&nbsp;<code>numbers</code>의 각 원소에 두배한 원소를 가진 배열을 return하도록 solution 함수를 완성해주세요.</p>
+</blockquote>
+<hr dir="auto">
+<h3 data-heading="제한사항" dir="auto">제한사항</h3>
+<ul dir="auto">
+<li dir="auto">10,000 ≤&nbsp;<code>numbers</code>의 원소 ≤ 10,000</li>
+<li dir="auto">1 ≤&nbsp;<code>numbers</code>의 길이 ≤ 1,000</li>
+</ul>
+<hr dir="auto">
+<h3 data-heading="입출력 예" dir="auto">입출력 예</h3>
+<table>
+<thead>
+<tr>
+<th>numbers</th>
+<th>result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1, 2, 3, 4, 5]</td>
+<td>[2, 4, 6, 8, 10]</td>
+</tr>
+<tr>
+<td>[1, 2, 100, -99, 1, 2, 3]</td>
+<td>[2, 4, 200, -198, 2, 4, 6]</td>
+</tr>
+</tbody>
+</table>
+<hr dir="auto">
+<p dir="auto">입출력 예&nbsp;#1</p>
+<ul dir="auto">
+<li dir="auto">[1, 2, 3, 4, 5]의 각 원소에 두배를 한 배열 [2, 4, 6, 8, 10]을 return합니다.</li>
+</ul>
+<p dir="auto">입출력 예&nbsp;#2</p>
+<ul dir="auto">
+<li dir="auto">[1, 2, 100, -99, 1, 2, 3]의 각 원소에 두배를 한 배열 [2, 4, 200, -198, 2, 4, 6]을 return합니다.</li>
+</ul>
+<hr dir="auto">
+<ul dir="auto">
+<li dir="auto">언어 : <a href="#java" class="tag" target="_blank" rel="noopener">#java</a></li>
+<li dir="auto">알고리즘 : 구현 알고리즘</li>
+</ul>
+<hr dir="auto">
+<pre dir="auto" class="language-java" tabindex="0"><code class="language-java is-loaded"><span class="token keyword">class</span> <span class="token class-name">Solution</span> <span class="token punctuation">{</span>
+	<span class="token keyword">public</span> <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token function">solution</span><span class="token punctuation">(</span><span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> numbers<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+		<span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> answer <span class="token operator">=</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">;</span>
+		
+	<span class="token keyword">return</span> answer<span class="token punctuation">;</span>
+	<span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+</code><button class="copy-code-button">Copy</button></pre>
+<hr dir="auto">
+<h1 data-heading="풀이" dir="auto">풀이</h1>
+<p dir="auto"><a href="#신한" class="tag" target="_blank" rel="noopener">#신한</a></p>
+<pre dir="auto" class="language-java" tabindex="0"><code class="language-java is-loaded"><span class="token keyword">package</span> <span class="token namespace">src</span><span class="token punctuation">;</span>  
+<span class="token keyword">class</span> <span class="token class-name">Shinhan</span> <span class="token punctuation">{</span>  
+    <span class="token keyword">public</span> <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token function">solution</span><span class="token punctuation">(</span><span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> numbers<span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+        <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> answer <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token keyword">int</span><span class="token punctuation">[</span>numbers<span class="token punctuation">.</span>length<span class="token punctuation">]</span><span class="token punctuation">;</span>  
+  
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> numbers<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+            answer<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> numbers<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">*</span> <span class="token number">2</span><span class="token punctuation">;</span>  
+        <span class="token punctuation">}</span>  
+        <span class="token keyword">return</span> answer<span class="token punctuation">;</span>  
+    <span class="token punctuation">}</span>  
+<span class="token punctuation">}</span>
+</code><button class="copy-code-button">Copy</button></pre>
+<p dir="auto"><a href="#김동훈" class="tag" target="_blank" rel="noopener">#김동훈</a></p>
+<pre dir="auto" class="language-java" tabindex="0"><code class="language-java is-loaded"><span class="token keyword">package</span> <span class="token namespace">src</span><span class="token punctuation">;</span>  
+<span class="token keyword">class</span> <span class="token class-name">Shinhan</span> <span class="token punctuation">{</span>  
+    <span class="token keyword">public</span> <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token function">solution</span><span class="token punctuation">(</span><span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> numbers<span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+        <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> answer <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token keyword">int</span><span class="token punctuation">[</span>numbers<span class="token punctuation">.</span>length<span class="token punctuation">]</span><span class="token punctuation">;</span>  
+  
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> numbers<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+            answer<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> numbers<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">*</span> <span class="token number">2</span><span class="token punctuation">;</span>  
+        <span class="token punctuation">}</span>  
+        <span class="token keyword">return</span> answer<span class="token punctuation">;</span>  
+    <span class="token punctuation">}</span>  
+<span class="token punctuation">}</span>
+</code><button class="copy-code-button">Copy</button></pre>
+<p dir="auto"><a href="#김현진" class="tag" target="_blank" rel="noopener">#김현진</a></p>
+<pre dir="auto" class="language-java" tabindex="0"><code class="language-java is-loaded"><span class="token keyword">package</span> <span class="token namespace">src</span><span class="token punctuation">;</span>  
+<span class="token keyword">class</span> <span class="token class-name">Shinhan</span> <span class="token punctuation">{</span>  
+    <span class="token keyword">public</span> <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token function">solution</span><span class="token punctuation">(</span><span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> numbers<span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+        <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> answer <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token keyword">int</span><span class="token punctuation">[</span>numbers<span class="token punctuation">.</span>length<span class="token punctuation">]</span><span class="token punctuation">;</span>  
+  
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> numbers<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+            answer<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> numbers<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">*</span> <span class="token number">2</span><span class="token punctuation">;</span>  
+        <span class="token punctuation">}</span>  
+        <span class="token keyword">return</span> answer<span class="token punctuation">;</span>  
+    <span class="token punctuation">}</span>  
+<span class="token punctuation">}</span>
+</code><button class="copy-code-button">Copy</button></pre>
+<p dir="auto"><a href="#정교영" class="tag" target="_blank" rel="noopener">#정교영</a></p>
+<pre dir="auto" class="language-java" tabindex="0"><code class="language-java is-loaded"><span class="token keyword">package</span> <span class="token namespace">src</span><span class="token punctuation">;</span>  
+<span class="token keyword">class</span> <span class="token class-name">Shinhan</span> <span class="token punctuation">{</span>  
+    <span class="token keyword">public</span> <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token function">solution</span><span class="token punctuation">(</span><span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> numbers<span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+        <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> answer <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token keyword">int</span><span class="token punctuation">[</span>numbers<span class="token punctuation">.</span>length<span class="token punctuation">]</span><span class="token punctuation">;</span>  
+  
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> numbers<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+            answer<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> numbers<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">*</span> <span class="token number">2</span><span class="token punctuation">;</span>  
+        <span class="token punctuation">}</span>  
+        <span class="token keyword">return</span> answer<span class="token punctuation">;</span>  
+    <span class="token punctuation">}</span>  
+<span class="token punctuation">}</span>
+</code><button class="copy-code-button">Copy</button></pre>
+<p dir="auto"><a href="#이수민" class="tag" target="_blank" rel="noopener">#이수민</a></p>
+<pre dir="auto" class="language-java" tabindex="0"><code class="language-java is-loaded"><span class="token keyword">package</span> <span class="token namespace">src</span><span class="token punctuation">;</span>  
+<span class="token keyword">class</span> <span class="token class-name">Shinhan</span> <span class="token punctuation">{</span>  
+    <span class="token keyword">public</span> <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token function">solution</span><span class="token punctuation">(</span><span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> numbers<span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+        <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> answer <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token keyword">int</span><span class="token punctuation">[</span>numbers<span class="token punctuation">.</span>length<span class="token punctuation">]</span><span class="token punctuation">;</span>  
+  
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> numbers<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+            answer<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> numbers<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">*</span> <span class="token number">2</span><span class="token punctuation">;</span>  
+        <span class="token punctuation">}</span>  
+        <span class="token keyword">return</span> answer<span class="token punctuation">;</span>  
+    <span class="token punctuation">}</span>  
+<span class="token punctuation">}</span>
+</code><button class="copy-code-button">Copy</button></pre>
+<p dir="auto"><a href="#황지원" class="tag" target="_blank" rel="noopener">#황지원</a></p>
+<pre dir="auto" class="language-java" tabindex="0"><code class="language-java is-loaded"><span class="token keyword">package</span> <span class="token namespace">src</span><span class="token punctuation">;</span>  
+<span class="token keyword">class</span> <span class="token class-name">Shinhan</span> <span class="token punctuation">{</span>  
+    <span class="token keyword">public</span> <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token function">solution</span><span class="token punctuation">(</span><span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> numbers<span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+        <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> answer <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token keyword">int</span><span class="token punctuation">[</span>numbers<span class="token punctuation">.</span>length<span class="token punctuation">]</span><span class="token punctuation">;</span>  
+  
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> numbers<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>  
+            answer<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> numbers<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">*</span> <span class="token number">2</span><span class="token punctuation">;</span>  
+        <span class="token punctuation">}</span>  
+        <span class="token keyword">return</span> answer<span class="token punctuation">;</span>  
+    <span class="token punctuation">}</span>  
+<span class="token punctuation">}</span>
+</code><button class="copy-code-button">Copy</button></pre>

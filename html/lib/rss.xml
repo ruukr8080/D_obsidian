@@ -1,0 +1,81 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[D_obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>D_obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 19 Jun 2024 01:14:54 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 19 Jun 2024 01:14:54 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[문제]]></title><description><![CDATA[<a class="tag" href="?query=tag:java" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#java</a> <a class="tag" href="?query=tag:신한" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#신한</a> <a class="tag" href="?query=tag:김동훈" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#김동훈</a> <a class="tag" href="?query=tag:김현진진" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#김현진진</a> <a class="tag" href="?query=tag:정교영영" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#정교영영</a> <a class="tag" href="?query=tag:이수민" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#이수민</a> <a class="tag" href="?query=tag:황지원원" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#황지원원</a> 
+ <br><br>
+정수 배열&nbsp;numbers가 매개변수로 주어집니다.&nbsp;numbers의 각 원소에 두배한 원소를 가진 배열을 return하도록 solution 함수를 완성해주세요.
+<br><br>
+<br>언어 : <a href=".?query=tag:java" class="tag" target="_blank" rel="noopener">#java</a>
+<br>알고리즘 : <a data-href="구현 알고리즘" href="구현 알고리즘" class="internal-link" target="_self" rel="noopener">구현 알고리즘</a>
+<br><br>class Solution {
+	public int[] solution(int[] numbers) {
+		int[] answer = {};
+		
+	return answer;
+	}
+}
+
+Copy<br><br><br><a href=".?query=tag:신한" class="tag" target="_blank" rel="noopener">#신한</a><br>package src;  
+class Shinhan {  
+    public int[] solution(int[] numbers) {  
+        int[] answer = new int[numbers.length];  
+  
+        for (int i = 0; i &lt; numbers.length; i++) {  
+            answer[i] = numbers[i] * 2;  
+        }  
+        return answer;  
+    }  
+}
+Copy<br><a href=".?query=tag:김동훈" class="tag" target="_blank" rel="noopener">#김동훈</a><br>package src;  
+class Shinhan {  
+    public int[] solution(int[] numbers) {  
+        int[] answer = new int[numbers.length];  
+  
+        for (int i = 0; i &lt; numbers.length; i++) {  
+            answer[i] = numbers[i] * 2;  
+        }  
+        return answer;  
+    }  
+}
+Copy<br><a href=".?query=tag:김현진진" class="tag" target="_blank" rel="noopener">#김현진진</a><br>package src;  
+class Shinhan {  
+    public int[] solution(int[] numbers) {  
+        int[] answer = new int[numbers.length];  
+  
+        for (int i = 0; i &lt; numbers.length; i++) {  
+            answer[i] = numbers[i] * 2;  
+        }  
+        return answer;  
+    }  
+}
+Copy<br><a href=".?query=tag:정교영영" class="tag" target="_blank" rel="noopener">#정교영영</a><br>package src;  
+class Shinhan {  
+    public int[] solution(int[] numbers) {  
+        int[] answer = new int[numbers.length];  
+  
+        for (int i = 0; i &lt; numbers.length; i++) {  
+            answer[i] = numbers[i] * 2;  
+        }  
+        return answer;  
+    }  
+}
+Copy<br><a href=".?query=tag:이수민" class="tag" target="_blank" rel="noopener">#이수민</a><br>package src;  
+class Shinhan {  
+    public int[] solution(int[] numbers) {  
+        int[] answer = new int[numbers.length];  
+  
+        for (int i = 0; i &lt; numbers.length; i++) {  
+            answer[i] = numbers[i] * 2;  
+        }  
+        return answer;  
+    }  
+}
+Copy<br><a href=".?query=tag:황지원원" class="tag" target="_blank" rel="noopener">#황지원원</a><br>package src;  
+class Shinhan {  
+    public int[] solution(int[] numbers) {  
+        int[] answer = new int[numbers.length];  
+  
+        for (int i = 0; i &lt; numbers.length; i++) {  
+            answer[i] = numbers[i] * 2;  
+        }  
+        return answer;  
+    }  
+}
+Copy]]></description><link>배열 두 배 만들기.html</link><guid isPermaLink="false">배열 두 배 만들기.md</guid><pubDate>Wed, 19 Jun 2024 01:14:05 GMT</pubDate></item></channel></rss>
