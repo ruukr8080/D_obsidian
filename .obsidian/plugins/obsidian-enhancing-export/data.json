@@ -1,7 +1,8 @@
 {
   "items": [
     {
-      "name": "Markdown"
+      "name": "Markdown",
+      "openExportedFileLocation": true
     },
     {
       "name": "Markdown (Hugo)"
@@ -49,9 +50,16 @@
       "name": "Bibliography"
     }
   ],
-  "defaultExportDirectoryMode": "Auto",
+  "pandocPath": {
+    "win32": "HOME=\"${HOME}\" PATH=\"${HOME}\\AppData\\Local\\Pandoc;${PATH}\" TEXINPUTS=\"${pluginDir}/textemplate/;\""
+  },
+  "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
-  "lastEditName": "Html"
+  "lastEditName": "Markdown",
+  "openExportedFileLocation": true,
+  "customDefaultExportDirectory": {
+    "win32": "C:\\개인\\D_obsidian\\temp"
+  }
 }

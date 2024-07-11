@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
+                "file": "Oracle/ORACLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51a3c8ab4b10976b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB 프로젝트 양식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5384c7eca4fc44d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af32fdedd56d16a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
+                "file": "Untitled 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md"
+                "file": "Untitled 4.md"
               }
             }
           },
@@ -150,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,57 +197,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec591862e78f68f5",
+  "active": "af32fdedd56d16a9",
   "lastOpenFiles": [
-    "디자인패턴/ORACLE.md",
-    "Pasted image 20240704185528.png",
-    "Pasted image 20240704173734.png",
-    "Pasted image 20240704173323.png",
-    "Pasted image 20240704173149.png",
-    "디자인패턴/Oracle CURD 구문.md",
-    "디자인패턴/데이터 조회 방법.md",
-    "디자인패턴/MY SQL_기본 SQL문법(CRUD).md",
-    "Pasted image 20240704152022.png",
-    "Pasted image 20240704150714.png",
-    "Pasted image 20240704150247.png",
-    "Pasted image 20240704145735.png",
-    "디자인패턴/실습용 테이블 살펴보기.md",
-    "디자인패턴/DB .md",
-    "Pasted image 20240704110556.png",
-    "디자인패턴/아키텍트와 디자인패턴.md",
-    "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
-    "디자인패턴/디자인패턴.md",
-    "Pasted image 20240627143825.png",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "WEB 프로젝트 양식.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "subject.md",
+    "Sequence Communication Diagram.md",
     "GoF의.md",
+    "Pasted image 20240711151531.png",
+    "Pasted image 20240711151449.png",
+    "Pasted image 20240711151351.png",
+    "Pasted image 20240711151317.png",
+    "Pasted image 20240711151211.png",
+    "Pasted image 20240711151152.png",
+    "Pasted image 20240711150940.png",
+    "Pasted image 20240711150913.png",
+    "Pasted image 20240711150906 1.png",
+    "Pasted image 20240711150906.png",
+    "Oracle/ORACLE.md",
+    "temp/WEB 프로젝트 양식-1720513578287.pdf",
+    "Object Diergram.md",
+    "class diergram.md",
+    "순서 바꾸기.md",
+    "2024-06-20-list.md",
+    "output/WEB 프로젝트 양식.md",
+    "temp",
+    "새 폴더 (2)",
+    "output/WEB 프로젝트 양식.html",
+    "분수의 덧셈.md",
+    "디자인패턴/실습용 테이블 살펴보기.md",
+    "디자인패턴/아키텍트와 디자인패턴.md",
+    "디자인패턴/데이터 조회 방법.md",
+    "디자인패턴/디자인패턴.md",
+    "Oracle/Oracle CURD 구문.md",
+    "Oracle/MY SQL_기본 SQL문법(CRUD).md",
+    "Oracle",
+    "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
+    "Oracle/DB .md",
     "디자인패턴/.md",
     "디자인패턴/Untitled.canvas",
     "디자인패턴/Untitled 1.md",
     "디자인패턴",
-    "2024-06-20-list.md",
-    "class diergram.md",
-    "Untitled 1.md",
-    "WEB 프로젝트 양식.md",
-    "순서 바꾸기.md",
-    "분수의 덧셈.md",
-    "Untitled 2.md",
-    "subject.md",
-    "Untitled.md",
-    "template/개인레포/README.md",
-    "output/WEB 프로젝트 양식.md",
-    "output/순서 바꾸기.md",
-    "output/배열 두 배 만들기.md",
     "Tags",
     "output/순서 바꾸기.html",
     "output/Untitled.html",
     "output/배열 두 배 만들기.html",
-    "새 폴더/lib/search-index.json",
-    "새 폴더/lib/metadata.json",
-    "새 폴더/lib/styles/supported-plugins.css",
-    "새 폴더/lib/styles/other-plugins.css",
-    "새 폴더/lib/styles/main-styles.css",
     "무제 파일.canvas"
   ]
 }

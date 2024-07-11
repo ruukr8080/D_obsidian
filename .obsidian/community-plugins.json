@@ -8,5 +8,7 @@
   "o2",
   "make-md",
   "excalibrain",
-  "markdown-blogger"
+  "obsidian-pandoc",
+  "better-export-pdf",
+  "obsidian-style-settings"
 ]
