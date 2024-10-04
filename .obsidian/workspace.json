@@ -8,55 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "474c381588f4deec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oracle/ORACLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51a3c8ab4b10976b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB 프로젝트 양식.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5384c7eca4fc44d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "af32fdedd56d16a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UML",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,27 +147,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "markdown-importer:Open format converter": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "af32fdedd56d16a9",
   "lastOpenFiles": [
-    "Untitled 3.md",
-    "Untitled 4.md",
-    "WEB 프로젝트 양식.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "subject.md",
-    "Sequence Communication Diagram.md",
-    "GoF의.md",
+    "스프링 로그인/OAuth2 로그인/OAuth 2.0 로그인.md",
+    "스프링 로그인/OAuth2 로그인/OAuth2 로그인.md",
+    "스프링 로그인/jwt/스프링 시큐리티 JWT 로그인.md",
+    "스프링 로그인/자동 로그인/자동 로그인.md",
+    "스프링 로그인/자동 로그인",
+    "스프링 로그인/OAuth2 로그인",
+    "스프링 로그인/시큐리티 로그인/시큐리티 로그인.md",
+    "스프링 로그인/시큐리티 로그인",
+    "스프링 로그인/세션 로그인/세션 로그인.md",
+    "스프링 로그인/세션 로그인",
+    "스프링 로그인/쿠키 로그인/쿠키 로그인.md",
+    "스프링 로그인/쿠키 로그인",
+    "스프링 로그인/무제 파일.md",
+    "스프링 로그인",
+    "front/라우트.md",
+    "스프링 로그인/jwt",
+    "무제 파일.md",
+    "front/무제 파일.md",
+    "front/next.js 입문.md",
+    "front/front.md",
+    "front",
+    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/js study 캔버스.canvas",
+    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/18. 함수와 일급 객체.md",
+    "obsidian/Templates/daily note.md",
+    "obsidian/Templates/회의록.md",
+    "obsidian/Templates/SlideStyle.md",
+    "obsidian/JavaScript/Book/칸반.md",
+    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/11. 원시 값과 객체의 비교.md",
+    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/09. 타입 변환과 단축 평가.md",
+    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/07. 연산자.md",
+    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/06. 데이터 타입.md",
+    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/05. 표현식과 문.md",
+    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/04. 변수.md",
+    "temp/웹 개발 3대장.md",
+    "Pasted image 20240717144737.png",
+    "temp/HTML,CSS,JS.canvas",
+    "temp/Js.md",
+    "temp/WEB 프로젝트 양식-1720513578287.pdf",
+    "새 폴더/lib/media/874d8b8e340f75575caa.svg",
+    "새 폴더/lib/media/3d6c1bdc4d87cde4de67.svg",
+    ".md",
     "Pasted image 20240711151531.png",
     "Pasted image 20240711151449.png",
     "Pasted image 20240711151351.png",
@@ -219,37 +207,7 @@
     "Pasted image 20240711151211.png",
     "Pasted image 20240711151152.png",
     "Pasted image 20240711150940.png",
-    "Pasted image 20240711150913.png",
-    "Pasted image 20240711150906 1.png",
-    "Pasted image 20240711150906.png",
-    "Oracle/ORACLE.md",
-    "temp/WEB 프로젝트 양식-1720513578287.pdf",
-    "Object Diergram.md",
-    "class diergram.md",
-    "순서 바꾸기.md",
-    "2024-06-20-list.md",
-    "output/WEB 프로젝트 양식.md",
-    "temp",
-    "새 폴더 (2)",
-    "output/WEB 프로젝트 양식.html",
-    "분수의 덧셈.md",
-    "디자인패턴/실습용 테이블 살펴보기.md",
-    "디자인패턴/아키텍트와 디자인패턴.md",
-    "디자인패턴/데이터 조회 방법.md",
-    "디자인패턴/디자인패턴.md",
-    "Oracle/Oracle CURD 구문.md",
-    "Oracle/MY SQL_기본 SQL문법(CRUD).md",
-    "Oracle",
-    "디자인패턴/Abstract Factory Pattern(추상 팩토리 패턴).md",
-    "Oracle/DB .md",
-    "디자인패턴/.md",
     "디자인패턴/Untitled.canvas",
-    "디자인패턴/Untitled 1.md",
-    "디자인패턴",
-    "Tags",
-    "output/순서 바꾸기.html",
-    "output/Untitled.html",
-    "output/배열 두 배 만들기.html",
     "무제 파일.canvas"
   ]
 }

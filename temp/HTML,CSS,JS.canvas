@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"47c85e362cee8ad4","type":"file","file":"temp/CSS.md","x":-184,"y":-53,"width":400,"height":400},
+		{"id":"837169b1012e5bda","type":"file","file":"temp/HTML.md","x":-920,"y":-53,"width":400,"height":400},
+		{"id":"bc4e65c4c6f2b8c0","x":480,"y":-53,"width":400,"height":400,"type":"file","file":"temp/Js.md"}
+	],
+	"edges":[]
+}
