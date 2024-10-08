@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "비즈니스모델/개발'자' 환경.md",
+                "file": "Ais/개발일지블로그.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "비즈니스모델/개발'자' 환경.md",
+                "file": "Ais/개발일지블로그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "비즈니스모델/개발'자' 환경.md",
+                "file": "Ais/개발일지블로그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "비즈니스모델/개발'자' 환경.md"
+                "file": "Ais/개발일지블로그.md"
               }
             }
           },
@@ -166,12 +167,13 @@
   },
   "active": "0648aad04f04a3d0",
   "lastOpenFiles": [
-    "비즈니스모델/DB.md",
-    "비즈니스모델/개발'자' 환경.md",
-    "비즈니스모델/비즈니스 모델.md",
-    "비즈니스모델/비즈니스 명.md",
-    "비즈니스모델/비즈니스 확장안.md",
-    "비즈니스모델",
+    "Ais/개발일지블로그.md",
+    "Ais/비즈니스 모델.md",
+    "Ais/비즈니스 명.md",
+    "Ais/개발'자' 환경.md",
+    "Ais/DB.md",
+    "Ais/비즈니스 확장안.md",
+    "Ais",
     "스프링 로그인/OAuth2 로그인/OAuth 2.0 로그인.md",
     "스프링 로그인/OAuth2 로그인/OAuth2 로그인.md",
     "스프링 로그인/jwt/스프링 시큐리티 JWT 로그인.md",
@@ -201,7 +203,6 @@
     "obsidian/JavaScript/Book/칸반.md",
     "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/11. 원시 값과 객체의 비교.md",
     "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/09. 타입 변환과 단축 평가.md",
-    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/07. 연산자.md",
     "Pasted image 20240717144737.png",
     "temp/HTML,CSS,JS.canvas",
     "temp/WEB 프로젝트 양식-1720513578287.pdf",

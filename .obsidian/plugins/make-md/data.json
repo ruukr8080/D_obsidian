@@ -27,7 +27,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 2,
+  "currentWaypoint": 3,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -52,7 +52,8 @@
     "새 폴더/lib/fonts",
     "front",
     "스프링 로그인",
-    "스프링 로그인/스프링 로그인/OAuth2 로그인"
+    "스프링 로그인/스프링 로그인/OAuth2 로그인",
+    "비즈니스모델"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
