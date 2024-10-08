@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "14284afe5ab0fc75",
+        "id": "3994b798a309483f",
         "type": "tabs",
         "children": [
           {
-            "id": "af32fdedd56d16a9",
+            "id": "0648aad04f04a3d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "비즈니스모델/개발'자' 환경.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243.5
   },
   "right": {
     "id": "6945b95e301cb46c",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "비즈니스모델/개발'자' 환경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "비즈니스모델/개발'자' 환경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "비즈니스모델/개발'자' 환경.md"
+              }
             }
           },
           {
@@ -157,8 +164,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af32fdedd56d16a9",
+  "active": "0648aad04f04a3d0",
   "lastOpenFiles": [
+    "비즈니스모델/DB.md",
+    "비즈니스모델/개발'자' 환경.md",
+    "비즈니스모델/비즈니스 모델.md",
+    "비즈니스모델/비즈니스 명.md",
+    "비즈니스모델/비즈니스 확장안.md",
+    "비즈니스모델",
     "스프링 로그인/OAuth2 로그인/OAuth 2.0 로그인.md",
     "스프링 로그인/OAuth2 로그인/OAuth2 로그인.md",
     "스프링 로그인/jwt/스프링 시큐리티 JWT 로그인.md",
@@ -189,17 +202,11 @@
     "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/11. 원시 값과 객체의 비교.md",
     "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/09. 타입 변환과 단축 평가.md",
     "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/07. 연산자.md",
-    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/06. 데이터 타입.md",
-    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/05. 표현식과 문.md",
-    "obsidian/JavaScript/Book/모던 자바스크립트 딥다이브/04. 변수.md",
-    "temp/웹 개발 3대장.md",
     "Pasted image 20240717144737.png",
     "temp/HTML,CSS,JS.canvas",
-    "temp/Js.md",
     "temp/WEB 프로젝트 양식-1720513578287.pdf",
     "새 폴더/lib/media/874d8b8e340f75575caa.svg",
     "새 폴더/lib/media/3d6c1bdc4d87cde4de67.svg",
-    ".md",
     "Pasted image 20240711151531.png",
     "Pasted image 20240711151449.png",
     "Pasted image 20240711151351.png",
